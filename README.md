@@ -2,6 +2,6 @@
 - 👀 I’m interested in web development, machine learning, and open-source projects.
 - 🌱 I’m currently learning Django and Python to build awesome web apps.
 - 💞️ I’m looking to collaborate on beginner-friendly open-source projects and community-driven tools.
-- 📫 How to reach me: jazgul.email@example.com or connect with me on LinkedIn [YourLinkedInURL]
+- 📫 How to reach me: djanbekovajazgul@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/jazgul-j
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love hiking and exploring new coffee shops in my city.
